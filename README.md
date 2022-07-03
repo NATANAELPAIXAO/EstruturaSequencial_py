@@ -1,4 +1,4 @@
 # EstruturaSequencial_py
 
-Resolução dos exercicios do PythonBrasil
+Resolução dos exerciciosdo PythonBrasil
 https://wiki.python.org.br/EstruturaSequencial
